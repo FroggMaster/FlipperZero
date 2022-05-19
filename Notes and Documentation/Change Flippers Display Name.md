@@ -27,3 +27,9 @@ return "YourNewFlipperName";
 **Step 3)**  Once you have modified the code as required, you will need to build your firmware. Step by step instructions on how you build firmware can be found on the Flipper Zero Repository: 
 - [Build with Docker](https://github.com/flipperdevices/flipperzero-firmware#build-with-docker)
 - [Build with Linux or MacOS](https://github.com/flipperdevices/flipperzero-firmware#build-on-linuxmacos)
+
+---
+
+Step 4) Flash your new firmware with [qFlipper](https://flipperzero.one/update). 
+
+*I plan to include additional information on how to flash a build at a later time*
