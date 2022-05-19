@@ -16,12 +16,3 @@ A collection of Flipper Zero notes, scripts, applications, frequencies, etc...
 
 ## Contributing
 𓆏 Pull requests are welcome. 𓆏
-=======
-- [`Notes and Documentation` A collection of useful notes and documentation](https://github.com/FroggMaster/Flipper/tree/main/Notes%20and%20Documentation)
-- [`SD Card Resources` A collection of useful resources for your SD Card (BadUSB, NFC, IR, SubGHZ)](https://github.com/FroggMaster/Flipper/tree/main/Notes%20and%20Documentation)
-
-
-## Helpful Repositories
-- [`Awesome Flipper Zero` A collection of useful notes and documentation](https://github.com/FroggMaster/Flipper/tree/main/Notes%20and%20Documentation)
-
-## Flipper Firmware 
