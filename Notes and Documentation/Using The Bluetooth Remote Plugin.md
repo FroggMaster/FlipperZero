@@ -8,7 +8,7 @@ An overview of how to pair to the Bluetooth Remote plugin included with the Flip
 
 ---
 
-**Step 2)** Open the Bluetooth settings for the device you want to pair to and look for **Keynote <YourFlipperName>**
+**Step 2)** Open the Bluetooth settings for the device you want to pair to and look for **Keynote \<YourFlipperName>**
 ![image](https://user-images.githubusercontent.com/12762784/169240600-a7d47ce6-6545-4722-b486-866a380b0749.png)
 
 ---
