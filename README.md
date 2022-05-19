@@ -1,4 +1,4 @@
-# Flipper
+# Flipper Zero / Frog's Repo O' Things
 A collection of Flipper Zero notes, scripts, applications, frequencies, etc... 
 
 ## Index
