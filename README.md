@@ -3,7 +3,7 @@ A collection of Flipper Zero notes, scripts, applications, frequencies, etc...
 
 ## Frog's Index
 - [`Notes and Documentation` A collection of useful notes and documentation](https://github.com/FroggMaster/FlipperZero/tree/main/Notes%20and%20Documentation)
-- [`SD Card Resources` A collection of useful resources for your SD Card (BadUSB, NFC, IR, SubGHZ)](https://github.com/FroggMaster/FlipperZero/)
+- [`SD Card Resources` A collection of useful resources for your SD Card (BadUSB, NFC, IR, SubGHZ)](https://github.com/FroggMaster/FlipperZero/tree/main/SD%20Card%20Resources)
 
 ## Helpful Repositories
 - [`Awesome Flipper Zero` Large list of helpful repos](https://github.com/djsime1/awesome-flipperzero)
