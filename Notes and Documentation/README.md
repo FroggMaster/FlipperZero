@@ -19,4 +19,3 @@ This is a library of helpful documentation, or useful notes that I've either wri
 
 ## Contributing
 𓆏 Pull requests are welcome. 𓆏
-![image]
