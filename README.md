@@ -5,8 +5,10 @@ A collection of Flipper Zero notes, scripts, applications, frequencies, etc...
 - [`Notes and Documentation` A collection of useful notes and documentation](https://github.com/FroggMaster/FlipperZero/tree/main/Notes%20and%20Documentation)
 - [`SD Card Resources` A collection of useful resources for your SD Card (BadUSB, NFC, IR, SubGHZ)](https://github.com/FroggMaster/FlipperZero/tree/main/SD%20Card%20Resources)
 
-## Helpful Repositories
+## Helpful Repositories / Wiki's 
 - [`Awesome Flipper Zero` Large list of helpful repos](https://github.com/djsime1/awesome-flipperzero)
+- [`Atmanos' Software Documents` An overview of the Flipper Firmware / Development Environment Setup](https://flipper.atmanos.com/docs/overview/intro)
+- [`Unofficial Flipper Wiki` The Unofficial Flipper Wiki](https://flipperzero.miraheze.org/wiki/Main_Page)
 
 ## Flipper Firmware 
 - [`Official FW` The Official Flipper Zero Firmware](https://github.com/flipperdevices/flipperzero-firmware)
