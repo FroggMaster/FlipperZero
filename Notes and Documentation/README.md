@@ -14,6 +14,9 @@ This is a library of helpful documentation, or useful notes that I've either wri
 ## Notes / Misc
 - [`Helpful Repo List` A list of helpful repositories / Wikis](https://github.com/FroggMaster/FlipperZero#helpful-repositories--wikis)
 - [`Screen Protector Dimensions` An image that shows the appropriate dimensions for a Screen Protector](https://user-images.githubusercontent.com/12762784/169257741-24aa4c28-d7e7-4ccb-9bd9-3efc8299ef7c.png) 
+- [`GPIO Pin Reference` An image which overviews the GPIO pins](https://user-images.githubusercontent.com/12762784/169719082-96bc5bf2-1040-4f47-aea8-2639a6405de8.png)
+
 
 ## Contributing
 𓆏 Pull requests are welcome. 𓆏
+![image]
