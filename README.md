@@ -10,6 +10,7 @@ A collection of Flipper Zero notes, scripts, applications, frequencies, etc...
 - [`Official Flipper Wiki` The Official Flipper Wiki](https://docs.flipperzero.one)
 - [`Unofficial Flipper Wiki` The Unofficial Flipper Wiki](https://flipperzero.miraheze.org/wiki/Main_Page)
 - [`Atmanos' Software Documents` An overview of the Flipper Firmware / Development Environment Setup](https://flipper.atmanos.com/docs/overview/intro)
+- [`UberGuidoZ` A collection of Resources for Flipper Zero](https://github.com/UberGuidoZ/Flipper)
 
 ## Flipper Firmware 
 - [`Official FW` The Official Flipper Zero Firmware](https://github.com/flipperdevices/flipperzero-firmware)
