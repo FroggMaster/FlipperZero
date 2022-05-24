@@ -13,9 +13,10 @@ A collection of Flipper Zero notes, scripts, applications, frequencies, etc...
 - [`UberGuidoZ Flipper Resources` A collection of resources for Flipper Zero](https://github.com/UberGuidoZ/Flipper)
 
 ## 3D Designs / Printables
-- [`Wifi Devboard Case` A printable case for the Wifi Dev Board](https://www.printables.com/model/179910-case-for-flipper-zero-wi-fi-module-v1)
+- [`Wifi Devboard Case` A case for the Wifi Dev Board](https://www.printables.com/model/179910-case-for-flipper-zero-wi-fi-module-v1)
 - [`MuddleBox's Flipper Cases` A Repo of 3D Printable Cases for Flipper Zero](https://github.com/MuddledBox/FlipperZeroCases)
-- [`Hard Cases by warpedrenegade` Two 3D printable hard shell cases](https://www.thingiverse.com/thing:5387015)
+- [`Hard Cases` Two hard shell cases by warpedrenegade](https://www.thingiverse.com/thing:5387015)
+- [`Tacticool Case` A tacticool case by s0ko1ex](https://github.com/s0ko1ex/FlipperZero-Hardware/tree/master/Cases/Tacticool%20case)
 
 ## Flipper Firmware 
 - [`Official FW` The Official Flipper Zero Firmware](https://github.com/flipperdevices/flipperzero-firmware)
