@@ -12,6 +12,9 @@ A collection of Flipper Zero notes, scripts, applications, frequencies, etc...
 - [`Atmanos' Software Documents` An overview of the Flipper Firmware / Development Environment Setup](https://flipper.atmanos.com/docs/overview/intro)
 - [`UberGuidoZ Flipper Resources` A collection of resources for Flipper Zero](https://github.com/UberGuidoZ/Flipper)
 
+## 3D Designs / Printables
+[`Wifi Devboard Case` A printable case for the Wifi Dev Board](https://www.printables.com/model/179910-case-for-flipper-zero-wi-fi-module-v1)
+
 ## Flipper Firmware 
 - [`Official FW` The Official Flipper Zero Firmware](https://github.com/flipperdevices/flipperzero-firmware)
 - [`Kokoe FW` Frog's Firmware a fork of Unleashed. Primarily for my personal testing/changes](https://github.com/FroggMaster/flipperzero-kokoe-firmware)
