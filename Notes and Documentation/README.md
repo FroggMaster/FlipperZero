@@ -17,6 +17,7 @@ This is a library of helpful documentation, or useful notes that I've either wri
 - [`GPIO PIN Reference` An image which overviews the GPIO pins](https://user-images.githubusercontent.com/12762784/169719082-96bc5bf2-1040-4f47-aea8-2639a6405de8.png)
 - [`Flipper SW/HW Keynote` A collection of slides that overview the basics of software and hardware development](https://miro.com/app/board/o9J_l1XZfbw=/?moveToWidget=3458764514405659414&cot=14)
 - [`Flipper Zero 3D Model` A 3D .GBL model of the Flipper Zero](https://cdn.flipperzero.one/flp_new.glb)
+- [`QFlipper All Builds` All available QFlipper Builds](https://update.flipperzero.one/builds/qFlipper/)
 
 ## Contributing
 𓆏 Pull requests are welcome. 𓆏
