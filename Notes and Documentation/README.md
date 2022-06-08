@@ -20,7 +20,7 @@ This is a library of helpful documentation, or useful notes that I've either wri
 - [`Flipper SW/HW Keynote` A collection of slides that overview the basics of software and hardware development](https://miro.com/app/board/o9J_l1XZfbw=/?moveToWidget=3458764514405659414&cot=14)
 - [`Flipper Zero 3D Model` A 3D .GBL model of the Flipper Zero](https://cdn.flipperzero.one/flp_new.glb)
 - [`QFlipper All Builds` All available QFlipper Builds](https://update.flipperzero.one/builds/qFlipper/)
-- [`Wifi DevBoard / Notes on Flashing Marauder`](https://user-images.githubusercontent.com/12762784/172555014-052b3e80-f540-44b7-8b61-370c1acf7c8f.png)
+- [`Wifi DevBoard / Notes on Flashing Marauder` Some notes regarding how to flash Marauder for the Wifi Dev Board](https://user-images.githubusercontent.com/12762784/172555014-052b3e80-f540-44b7-8b61-370c1acf7c8f.png)
 
 ## Contributing
 𓆏 Pull requests are welcome. 𓆏
