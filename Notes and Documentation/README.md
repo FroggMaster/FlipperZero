@@ -8,6 +8,7 @@ This is a library of helpful documentation, or useful notes that I've either wri
 - [`Using The Bluetooth Remote Plugin` How to use the Bluetooth Remote Plugin](https://github.com/FroggMaster/Flipper/blob/main/Notes%20and%20Documentation/Using%20The%20Bluetooth%20Remote%20Plugin.md)
 - [`Atmanos' Software Documents` An overview of the Flipper Firmware amd Development Environment Setup](https://flipper.atmanos.com/docs/overview/intro)
 - [`Hello World Plugin Tutorial` A tutorial on how to create a Hello World plugin](https://github.com/DroomOne/Flipper-Plugin-Tutorial)
+- [`Flipper Battery Self Repair Guide` A guide on how to dissassemble and troubleshoot battery problems with the Flipper Zero](https://cdn.flipperzero.one/self-repair-guide.pdf)
 
 ## Video Tutorials
 - [`Flipper Zero Disassembly` A Video tutorial on how to disassemble the Flipper Zero](https://youtu.be/38pHe7M4vl8)
@@ -19,6 +20,7 @@ This is a library of helpful documentation, or useful notes that I've either wri
 - [`Flipper SW/HW Keynote` A collection of slides that overview the basics of software and hardware development](https://miro.com/app/board/o9J_l1XZfbw=/?moveToWidget=3458764514405659414&cot=14)
 - [`Flipper Zero 3D Model` A 3D .GBL model of the Flipper Zero](https://cdn.flipperzero.one/flp_new.glb)
 - [`QFlipper All Builds` All available QFlipper Builds](https://update.flipperzero.one/builds/qFlipper/)
+- [`Wifi DevBoard / Notes on Flashing Marauder`](https://user-images.githubusercontent.com/12762784/172555014-052b3e80-f540-44b7-8b61-370c1acf7c8f.png)
 
 ## Contributing
 𓆏 Pull requests are welcome. 𓆏
