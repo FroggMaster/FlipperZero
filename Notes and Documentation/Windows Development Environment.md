@@ -7,7 +7,7 @@
 - How to build the firmware on Windows VIA Docker in CMD or Docker in WSL2 
 
 ## Instructions
-1) You're going to need to start by **downloading and installing the appropriate tools for development**. I've listed a selection of tools for you to choose from and highlighted the ones that I specifically use with a :frog:. Any of the below tools will work for your required purposes. 
+1) You're going to need to start by **downloading and installing the appropriate tools for development**. I've listed a selection of tools for you to choose from and highlighted the ones that I specifically use with a :frog:. Any of the below tools will work for your required purposes. Please review the [`Required Tools`](https://github.com/FroggMaster/FlipperZero/blob/main/Notes%20and%20Documentation/Windows%20Development%20Environment.md#required-tools) section first.
 
 2) Once you've installed the appropriate tools you're ready to hop into some development! We're going to start by cloning the Flipper Zero Firmware we want to modify.
 
@@ -28,15 +28,15 @@ git clone https://github.com/flipperdevices/flipperzero-firmware.git
 
 1) Open **CMD** ***as an adminsitrator***
 2) Navigate to the root of your Firmware Directory
-```
+```batch
 cd /d F:\Projects\flipperzero-firmware
 ```
 3) Start the Docker Instance
-```
+```batch
 docker-compose up -d
 ```
 4) Build the Firmware
-```
+```batch
 docker-compose exec dev make
 ```
 5) You should find the newly built firmware files located in ***\<YourSaveLocation>*****\flipperzero-firmware\dist\f7**
@@ -44,15 +44,15 @@ docker-compose exec dev make
 ### Building with Docker in WSL2 
 1) Open **WSL2** VIA the Windows Start Menu
 2) Navigate to the root of your Firmware Directory
-```
+```bash
 cd /mnt/f/Projects/flipperzero-kokoe-firmware
 ```
 3) Start the Docker Instance ***you will be prompted for admin credentials based on the account you setup when configuring WSL2***
-```
+```bash
 sudo docker-compose up -d
 ```
 4) Build the Firmware
-```
+```bash
 docker-compose exec dev make
 ```
 5) You should find the newly built firmware files located in ***\<YourSaveLocation>*****\flipperzero-firmware\dist\f7**
