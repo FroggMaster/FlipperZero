@@ -48,6 +48,7 @@ This is a library of helpful documentation, or useful notes that I've either wri
 - [`Using The Bluetooth Remote Plugin` How to use the Bluetooth Remote Plugin](https://github.com/FroggMaster/Flipper/blob/main/Notes%20and%20Documentation/Using%20The%20Bluetooth%20Remote%20Plugin.md)
 - [`Hello World Plugin Tutorial` A tutorial on how to create a Hello World plugin](https://github.com/DroomOne/Flipper-Plugin-Tutorial)
 - [`Flipper Battery Self Repair Guide` A guide on how to dissassemble and troubleshoot battery problems with the Flipper Zero](https://cdn.flipperzero.one/self-repair-guide.pdf)
+- [`Official Firmware Recovery Guide` A guide from the official Flipper documents for firmware recovery](https://docs.flipperzero.one/basics/firmware-update/firmware-recovery)
 
 ## Video Tutorials
 - [`Flipper Zero Disassembly` A Video tutorial on how to disassemble the Flipper Zero](https://youtu.be/38pHe7M4vl8)
