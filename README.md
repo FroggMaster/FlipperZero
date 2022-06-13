@@ -24,7 +24,7 @@
 - [`Unofficial Flipper Wiki` The Unofficial Flipper Wiki](https://flipperzero.miraheze.org/wiki/Main_Page)
 - [`Atmanos' Documents` A collection of guides for the Flipper Zero](https://flipper.atmanos.com/docs/overview/intro)
 - [`UberGuidoZ Flipper Resources` A collection of resources for Flipper Zero](https://github.com/UberGuidoZ/Flipper)
-- [`Pingywon's File Repository` A collection of resources for the Flipper Zero, might be geo-blocked to US only IPs](https://www.pingywon.com/flipper/)
+- [`Pingywon's Repository` A collection of resources and guides for the Flipper Zero](https://www.flipper.pingywon.com/)
 
 ## 3D Designs / Printables
 - [`Wifi Devboard Case` A case for the Wifi Dev Board](https://www.printables.com/model/179910-case-for-flipper-zero-wi-fi-module-v1)
