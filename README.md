@@ -1,5 +1,18 @@
-# Flipper Zero / Frog's Repo O' Things
-A collection of Flipper Zero notes, scripts, applications, frequencies, etc... 
+<hr>
+<a href="https://github.com/FroggMaster/FlipperZero">
+  <img src="https://user-images.githubusercontent.com/12762784/173307397-692935d2-cc58-4c97-82ee-9d5a56f708fc.png" align="center" alt="Frog's Flipper Zero Repo" title="Frog's Flipper Zero Repo" width="1200" height="300">
+</a>
+
+<hr>
+<h3 align="center">
+ A collection of notes, scripts, applications, frequencies, etc... for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Flipper%20Zero-Frog's%20Index-green" alt="Flipper Zero Frog's Repo O Things" height=24>
+    <img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=24>
+  </a>
+</h3>
+
+<!-- Please, Do not modify the HTML above this section 𓆏 Thank you 𓆏-->
 
 ## Frog's Index
 - [`Notes and Documentation` A collection of useful notes and documentation](https://github.com/FroggMaster/FlipperZero/blob/main/README.md#flipper-documents--notes)
@@ -48,5 +61,12 @@ This is a library of helpful documentation, or useful notes that I've either wri
 - [`QFlipper All Builds` All available QFlipper Builds](https://update.flipperzero.one/builds/qFlipper/)
 - [`Wifi DevBoard / Notes on Flashing Marauder` Some notes regarding how to flash Marauder for the Wifi Dev Board](https://user-images.githubusercontent.com/12762784/172555014-052b3e80-f540-44b7-8b61-370c1acf7c8f.png)
 
+<!-- DO NOT MODIFY BELOW -->
 ## Contributing
-𓆏 Pull requests are welcome. 𓆏
+<h3 align="center">Want to make changes?</h3>
+<div align="center">
+  𓆏 Pull requests are welcome. 𓆏<br>
+  You can <kbd><a href="https://github.com/FroggMaster/FlipperZero/edit/main/README.md">Edit this file</a></kbd> and open a Pull Request,
+  or <kbd><a href="https://github.com/FroggMaster/FlipperZero/discussions">Start a discussion</a></kbd> with your ideas.<br>
+  <em>(A GitHub account is required for both)</em> 
+</div>
