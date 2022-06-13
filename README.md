@@ -2,7 +2,7 @@
 A collection of Flipper Zero notes, scripts, applications, frequencies, etc... 
 
 ## Frog's Index
-- [`Notes and Documentation` A collection of useful notes and documentation]
+- [`Notes and Documentation` A collection of useful notes and documentation](https://github.com/FroggMaster/FlipperZero/blob/main/README.md#flipper-documents--notes)
 - [`SD Card Resources` A collection of useful resources for your SD Card (BadUSB, NFC, IR, SubGHZ)](https://github.com/FroggMaster/FlipperZero/tree/main/SD%20Card%20Resources)
 
 ## Helpful Repositories / Wiki's 
