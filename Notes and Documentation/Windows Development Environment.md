@@ -71,9 +71,10 @@ docker-compose exec dev make
 - Options with a :frog: next to them are my personal choice
 
 ### Text Editor
-- [`Atom` A hackable text editor for the 21st century](https://atom.io) :frog:
+- [`VS Code` A plugin/community text editor from Microsoft](https://code.visualstudio.com) :frog:
 - [`Notepad++` A source code editor for Windows](https://notepad-plus-plus.org) :frog:
     - I have both of these text editors installed, I find they both work great for different purposes. 
+- [`Atom` A hackable text editor for the 21st century / Now depreciated by micrsoft](https://atom.io)
 
 
 ### Git Client
