@@ -15,7 +15,7 @@
 <!-- Please, Do not modify the HTML above this section 𓆏 Thank you 𓆏-->
 
 ## Frog's Index
-- [`Notes and Documentation` A collection of useful notes and documentation](https://github.com/FroggMaster/FlipperZero/blob/main/README.md#flipper-documents--notes)
+- [`Notes and Documentation` A collection of useful notes and documentation](https://github.com/FroggMaster/Flipperzero#flipper-documents--notes)
 - [`SD Card Resources` A collection of useful resources for your SD Card (BadUSB, NFC, IR, SubGHZ)](https://github.com/FroggMaster/FlipperZero/tree/main/SD%20Card%20Resources)
 
 ## Helpful Repositories / Wiki's 
