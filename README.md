@@ -19,7 +19,7 @@
 - [`SD Card Resources` A collection of useful resources for your SD Card (BadUSB, NFC, IR, SubGHZ)](https://github.com/FroggMaster/FlipperZero/tree/main/SD%20Card%20Resources)
 
 ## Helpful Repositories / Wiki's 
-- [`Awesome Flipper Zero` Large list of helpful repos](https://github.com/djsime1/awesome-flipperzero)
+- [`Awesome Flipper Zero` An index of helpful repos and information](https://github.com/djsime1/awesome-flipperzero)
 - [`Official Flipper Wiki` The Official Flipper Wiki](https://docs.flipperzero.one)
 - [`Unofficial Flipper Wiki` The Unofficial Flipper Wiki](https://flipperzero.miraheze.org/wiki/Main_Page)
 - [`Atmanos' Documents` A collection of guides for the Flipper Zero](https://flipper.atmanos.com/docs/overview/intro)
