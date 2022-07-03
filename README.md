@@ -38,6 +38,9 @@
 - [`Unleashed/Plugins FW` RogueMaster's Firmware a fork of MuddleBox/Unleashed with additional plugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
 - [`Unleashed FW` The Unleashed Firmware (No Legal Limitations)](https://github.com/Eng1n33r/flipperzero-firmware)
 
+## Applications / Plugins
+- [`MouseJacking` A Plugin/Driver for mousejacking, requires an NRF24L01 radio chip](https://github.com/mothball187/flipperzero-nrf24)
+
 # Flipper Documents / Notes
 
 This is a library of helpful documentation, or useful notes that I've either written or collected. 
