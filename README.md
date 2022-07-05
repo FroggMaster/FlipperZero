@@ -52,9 +52,11 @@ This is a library of helpful documentation, or useful notes that I've either wri
 - [`Hello World Plugin Tutorial` A tutorial on how to create a Hello World plugin](https://github.com/DroomOne/Flipper-Plugin-Tutorial)
 - [`Flipper Battery Self Repair Guide` A guide on how to dissassemble and troubleshoot battery problems with the Flipper Zero](https://cdn.flipperzero.one/self-repair-guide.pdf)
 - [`Official Firmware Recovery Guide` A guide from the official Flipper documents for firmware recovery](https://docs.flipperzero.one/basics/firmware-update/firmware-recovery)
+- [`iFixIt Flipper Disassembly Guide` A guide on how to completely disassemble the Flipper Zero](https://www.ifixit.com/Guide/Flipper+Zero+Disassembly/151331)
 
 ## Video Tutorials
-- [`Flipper Zero Disassembly` A Video tutorial on how to disassemble the Flipper Zero](https://youtu.be/38pHe7M4vl8)
+- [`Flipper Zero Disassembly` How to disassemble the Flipper Zero](https://youtu.be/38pHe7M4vl8)
+- [`How To Run Marauder on the WiFi Dev Board` An overview of how to run Marauder on the Wifi Devboard, compliements of ](https://youtu.be/_YLTpNo5xa0)[justcallmekoko](https://github.com/justcallmekoko)
 
 ## Notes / Misc
 - [`Helpful Repo List` A list of helpful repositories / Wikis](https://github.com/FroggMaster/FlipperZero#helpful-repositories--wikis)
@@ -64,6 +66,9 @@ This is a library of helpful documentation, or useful notes that I've either wri
 - [`Flipper Zero 3D Model` A 3D .GBL model of the Flipper Zero](https://cdn.flipperzero.one/flp_new.glb)
 - [`QFlipper All Builds` All available QFlipper Builds](https://update.flipperzero.one/builds/qFlipper/)
 - [`Wifi DevBoard / Notes on Flashing Marauder` Some notes regarding how to flash Marauder for the Wifi Dev Board](https://user-images.githubusercontent.com/12762784/172555014-052b3e80-f540-44b7-8b61-370c1acf7c8f.png)
+- [Screw Dimensions](https://user-images.githubusercontent.com/12762784/177255984-eef7eb2b-0ac8-4d81-b03b-2d75d7e48d49.png)
+
+
 
 <!-- DO NOT MODIFY BELOW -->
 ## Contributing
