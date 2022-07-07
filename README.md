@@ -67,7 +67,7 @@ This is a library of helpful documentation, or useful notes that I've either wri
 - [`QFlipper All Builds` All available QFlipper Builds](https://update.flipperzero.one/builds/qFlipper/)
 - [`Wifi DevBoard / Notes on Flashing Marauder` Some notes regarding how to flash Marauder for the Wifi Dev Board](https://user-images.githubusercontent.com/12762784/172555014-052b3e80-f540-44b7-8b61-370c1acf7c8f.png)
 - [`Screw Dimensions` A reference/measurements of the screws used for the Flipper Zero](https://user-images.githubusercontent.com/12762784/177255984-eef7eb2b-0ac8-4d81-b03b-2d75d7e48d49.png)
-
+- [`NRF24L01 Wiring Diagram` A visual reference for wiring the NRFL24L01 Radio](https://user-images.githubusercontent.com/12762784/177709854-66219630-9c8a-472c-9cad-6f2ba0253c3b.png)
 
 
 <!-- DO NOT MODIFY BELOW -->
