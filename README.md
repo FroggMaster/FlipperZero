@@ -52,7 +52,7 @@ This is a library of helpful documentation, or useful notes that I've either wri
 - [`Hello World Plugin Tutorial` A tutorial on how to create a Hello World plugin](https://github.com/DroomOne/Flipper-Plugin-Tutorial)
 - [`Flipper Battery Self Repair Guide` A guide on how to dissassemble and troubleshoot battery problems with the Flipper Zero](https://cdn.flipperzero.one/self-repair-guide.pdf)
 - [`Official Firmware Recovery Guide` A guide from the official Flipper documents for firmware recovery](https://docs.flipperzero.one/basics/firmware-update/firmware-recovery)
-- [`iFixIt Flipper Disassembly Guide` A guide on how to completely disassemble the Flipper Zero](https://www.ifixit.com/Guide/Flipper+Zero+Disassembly/151331)
+- [`iFixIt Flipper Disassembly Guide` A guide on how to completely disassemble the Flipper Zero](https://www.ifixit.com/Guide/Flipper+Zero+Disassembly/151455)
 
 ## Video Tutorials
 - [`Flipper Zero Disassembly` How to disassemble the Flipper Zero](https://youtu.be/38pHe7M4vl8)
