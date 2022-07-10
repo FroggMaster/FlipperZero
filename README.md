@@ -31,8 +31,16 @@
 - [`Unleashed/Plugins FW` RogueMaster's Firmware a fork of MuddleBox/Unleashed with additional plugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
 - [`Unleashed FW` The Unleashed Firmware (No Legal Limitations)](https://github.com/Eng1n33r/flipperzero-firmware)
 
-## Applications / Plugins
+## Applications / Plugins / Games
+### Plugins
 - [`MouseJacking` A Plugin/Driver for mousejacking, requires an NRF24L01 radio chip](https://github.com/mothball187/flipperzero-nrf24) (Wiring Diagram Below)
+- [`Spectrum Analyzer` A simple Sprectrum Anaylzer](https://github.com/jolcese/flipperzero-firmware/tree/spectrum/applications/spectrum_analyzer)
+- [`Mouse Jiggler` A mouse jiggler to keep a connected PC Active](https://github.com/MuddledBox/flipperzero-firmware/tree/Mouse_Jiggler/applications/mouse_jiggler)
+
+### Games
+- [`Tetris` The game of Tetris](https://github.com/jeffplang/flipperzero-firmware/tree/tetris_game/applications/tetris_game)
+- [`Flappy Bird` The game of Flappy Bird, collision is nonfunctional/duplicate walls or artifcating occurs](https://github.com/DroomOne/flipperzero-firmware/tree/dev/applications%2Fflappy_bird)
+- [`Flooper Blooper` A game of exploration and platforming](https://github.com/glitchcore/floopper-bloopper)
 
 ## Accessories
 ### 3D Designs / Printables
@@ -42,9 +50,11 @@
 - [`Tacticool Case` A tacticool case by s0ko1ex](https://github.com/s0ko1ex/FlipperZero-Hardware/tree/master/Cases/Tacticool%20case)
 - [`HardEdgy Case` A "HardEdgy" case by s0ko1ex](https://github.com/s0ko1ex/FlipperZero-Hardware/tree/master/Cases/Hard%20Edgy%20Case)
 - [`Flipper Zero 3D Model` A 3D .GBL model of the Flipper Zero](https://cdn.flipperzero.one/flp_new.glb)
-
+- [`ProtoBoards KiCad`A KiCad for printing Flipper Zero Protoboards](https://github.com/lomalkin/flipperzero-protoboards-kicad)
+ 
 ### Hardware 
 - [`Screen Protector` A screen protector for the Flipper Zero](https://www.photodon.com/p/2419-01.html)
+
 
 # Flipper Documents / Notes
 
